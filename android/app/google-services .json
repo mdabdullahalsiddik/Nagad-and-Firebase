@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66634411201",
+    "project_id": "nadag-16cc4",
+    "storage_bucket": "nadag-16cc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66634411201:android:71386a7acb3ebe76e4b840",
+        "android_client_info": {
+          "package_name": "com.example.nogod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACT1C2QMs1l8yteQU4ICZxVhjPXg-dHjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
